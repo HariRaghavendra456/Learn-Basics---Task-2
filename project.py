@@ -158,4 +158,10 @@ wb2.save("Output.xlsx")
 
 #Frist practising on add and reset commands.
 
+<<<<<<< HEAD
 #I have added a branch for ganesh in the porject.
+=======
+#I have added a branch for ganesh in the porject.
+
+#Just chill.
+>>>>>>> Ganesh
